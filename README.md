@@ -2,7 +2,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Bagian 1</title>
